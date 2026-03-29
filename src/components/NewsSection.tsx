@@ -5,21 +5,21 @@ const news = [
     title: "Union Logistics Announces Major Expansion into Hong Kong",
     date: "March 10, 2026",
     category: "Company News",
-    image: "https://images.unsplash.com/photo-1580828369019-2220b0a88746?q=80&w=2069&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?q=80&w=2070&auto=format&fit=crop",
     excerpt: "Strengthening our Asian presence to provide seamless end-to-end supply chain solutions across the continent."
   },
   {
     title: "Navigating Global Customs: 2026 Regulatory Updates",
     date: "February 28, 2026",
     category: "Industry Insights",
-    image: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
     excerpt: "A comprehensive guide to the latest changes in international trade regulations and how they affect your cargo."
   },
   {
     title: "Sustainable Shipping: Our Commitment to Green Logistics",
     date: "February 15, 2026",
     category: "Sustainability",
-    image: "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?q=80&w=2041&auto=format&fit=crop",
     excerpt: "How Union Logistics is reducing carbon footprints through optimized routing and eco-friendly warehousing."
   }
 ];

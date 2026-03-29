@@ -15,7 +15,7 @@ const blogPosts = [
     date: "March 18, 2026",
     category: "Shipping Guides",
     author: "Elena Rodriguez",
-    image: "https://images.unsplash.com/photo-1494412519320-aa613dfb7738?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1578575437130-527eed3abbec?q=80&w=2070&auto=format&fit=crop",
     excerpt: "Strategies to reduce transit times and costs in ocean shipping while maintaining supply chain resilience."
   },
   {
@@ -23,7 +23,7 @@ const blogPosts = [
     date: "March 10, 2026",
     category: "Case Studies",
     author: "Dr. Robert Chen",
-    image: "https://images.unsplash.com/photo-1587854680352-936b22b91030?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?q=80&w=2070&auto=format&fit=crop",
     excerpt: "How Union Logistics helped a major pharmaceutical firm achieve 100% temperature compliance across borders."
   },
   {
@@ -31,7 +31,7 @@ const blogPosts = [
     date: "March 05, 2026",
     category: "News Updates",
     author: "Sarah Lee",
-    image: "https://images.unsplash.com/photo-1506354666786-959d6d497f1a?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?q=80&w=2070&auto=format&fit=crop",
     excerpt: "Exploring the strategic importance of our new Hong Kong hub for global trade routes."
   },
   {
@@ -39,7 +39,7 @@ const blogPosts = [
     date: "February 22, 2026",
     category: "Sustainability",
     author: "Mark Thompson",
-    image: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1532601224476-15c79f2f7a51?q=80&w=2070&auto=format&fit=crop",
     excerpt: "Innovative approaches to reducing the environmental impact of large-scale logistics facilities."
   },
   {
@@ -47,7 +47,7 @@ const blogPosts = [
     date: "February 15, 2026",
     category: "Shipping Guides",
     author: "William Parker",
-    image: "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=2070&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1526778548025-fa2f459cd5c1?q=80&w=2070&auto=format&fit=crop",
     excerpt: "Essential tips for businesses shipping between the UK and the European Union in the current landscape."
   }
 ];
