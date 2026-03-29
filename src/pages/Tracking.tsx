@@ -1,5 +1,5 @@
+import React, { useState } from 'react';
 import { Search, Package, Truck, Ship, CheckCircle2, MapPin } from 'lucide-react';
-import { useState } from 'react';
 
 export default function Tracking() {
   const [trackingNumber, setTrackingNumber] = useState('');

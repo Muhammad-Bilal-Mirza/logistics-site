@@ -38,10 +38,11 @@ export default function Footer() {
             <h4 className="text-lg font-bold mb-6">Quick Links</h4>
             <ul className="space-y-4 text-gray-400">
               <li><Link to="/about" className="hover:text-brand-red transition-colors">About Us</Link></li>
-              <li><Link to="/services" className="hover:text-brand-red transition-colors">Our Services</Link></li>
-              <li><Link to="/tracking" className="hover:text-brand-red transition-colors">Track Shipment</Link></li>
-              <li><Link to="/contact" className="hover:text-brand-red transition-colors">Request a Quote</Link></li>
-              <li><Link to="/contact" className="hover:text-brand-red transition-colors">Contact Us</Link></li>
+              <li><Link to="/industries" className="hover:text-brand-red transition-colors">Industries Served</Link></li>
+              <li><Link to="/network" className="hover:text-brand-red transition-colors">Global Network</Link></li>
+              <li><Link to="/technology" className="hover:text-brand-red transition-colors">Technology</Link></li>
+              <li><Link to="/careers" className="hover:text-brand-red transition-colors">Careers</Link></li>
+              <li><Link to="/faq" className="hover:text-brand-red transition-colors">FAQ</Link></li>
             </ul>
           </div>
 
@@ -54,6 +55,7 @@ export default function Footer() {
               <li><Link to="/services" className="hover:text-brand-red transition-colors">Land Transport</Link></li>
               <li><Link to="/services" className="hover:text-brand-red transition-colors">Warehousing</Link></li>
               <li><Link to="/services" className="hover:text-brand-red transition-colors">Customs Clearance</Link></li>
+              <li><Link to="/tracking" className="hover:text-brand-red transition-colors">Track Shipment</Link></li>
             </ul>
           </div>
 
@@ -73,6 +75,11 @@ export default function Footer() {
                 <Mail className="w-5 h-5 text-brand-red flex-shrink-0" />
                 <span>info@unionlogistics.ae</span>
               </li>
+              <li>
+                <Link to="/contact" className="inline-block mt-4 bg-white/5 hover:bg-brand-red px-6 py-2 rounded-lg transition-colors text-white font-bold text-sm">
+                  Contact Support
+                </Link>
+              </li>
             </ul>
           </div>
 
@@ -83,6 +90,7 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} Union Logistics FZE. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-gray-500">
+            <Link to="/resources" className="hover:text-white transition-colors">Resources</Link>
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
           </div>
